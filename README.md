@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kristmasGMD
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, Unity
+- 🌱 I’m currently learning С++, С# and FrontEnd (with PhP and SQL)
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me tks51games@gmail.com
 
